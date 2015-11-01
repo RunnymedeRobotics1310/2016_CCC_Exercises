@@ -79,6 +79,7 @@ public class S1 {
 
 		}
 		
+		// Total all of the numbers and print
 		int sum = 0;
 		for (Integer n:intLs) {
 			sum += n;
