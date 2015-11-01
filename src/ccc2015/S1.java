@@ -69,7 +69,8 @@ public class S1 {
 		for (int i=0; i<k; i++) {
 			
 			int n = new Integer(input.nextLine());
-			
+		
+			// Remove the last element in the list if a zero was entered.
 			if (n == 0 ) {
 				intLs.remove(intLs.size()-1);  
 			} else {
