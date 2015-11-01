@@ -56,7 +56,7 @@ public class S3 {
 	// *************************************************
 
 	// Solve the problem using decks
-	// ArrayDeque is used with Deques similarly to ArrayLists and Lists
+	// ArrayDeque is used with Deques(decks) similarly to ArrayLists and Lists
 	private Deque<Integer> mountain;
 	private Deque<Integer> branch;
 
