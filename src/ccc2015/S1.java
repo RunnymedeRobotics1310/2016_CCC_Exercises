@@ -14,6 +14,7 @@ your company made last year.
 Unfortunately, your boss reads out numbers incorrectly from time to time.
 Fortunately, your boss realizes when an incorrect number is read and says “zero”, meaning “ignore
 the current last number.”
+
 Unfortunately, your boss can make repeated mistakes, and says “zero” for each mistake.
 For example, your boss may say “One, three, five, four, zero, zero, seven, zero, zero, six”, which
 means the total is 7 as explained in the following chart:

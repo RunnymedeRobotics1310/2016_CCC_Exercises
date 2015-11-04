@@ -56,7 +56,7 @@ public class S3 {
 	// *************************************************
 
 	// Solve the problem using decks
-	// ArrayDeque is used with Deques(decks) similarly to ArrayLists and Lists.
+	// ArrayDeque is used with Deques(decks) similarly to ArrayLists and Lists
 	private Deque<Integer> mountain;
 	private Deque<Integer> branch;
 
@@ -77,6 +77,7 @@ public class S3 {
 			outputList.add(solution);
 		}
 		
+		// Print the solutions
 		for (String solution: outputList) {
 			System.out.println(solution);
 		}
